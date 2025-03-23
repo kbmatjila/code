@@ -1,5 +1,4 @@
 ########################
-# Practical 2
 # Name and surname: Karabo Matjila
 # Student number: 22743333
 ########################
